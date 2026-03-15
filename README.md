@@ -52,9 +52,9 @@ Open in browser:
 
 http://localhost:3000
 
-## 🚀 DevOps CI/CD Architecture
+## DevOps CI/CD Architecture
 
-![DevOps Architecture]("architecture.png")
+![DevOps Architecture](architecture.png)
 
 
 ## Live Deployment
