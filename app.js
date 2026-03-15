@@ -29,7 +29,7 @@ app.get("/", (req, res) => {
 
     <body>
       <div class="box">
-        <h1>🚀 DevOps CI/CD Project</h1>
+        <h1> DevOps CI/CD Project</h1>
         <p>Application deployed with Docker & CI/CD</p>
 
         <p>✔ GitHub Actions</p>

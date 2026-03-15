@@ -52,6 +52,11 @@ Open in browser:
 
 http://localhost:3000
 
+## 🚀 DevOps CI/CD Architecture
+
+![DevOps Architecture]("architecture.png")
+
+
 ## Live Deployment
 
 Application available online via Railway deployment.
